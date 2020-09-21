@@ -1,5 +1,5 @@
 # Video-To-Image
-This is a tool to save images from certain video using OpenCV.
+This is a tool to save images from certain video using OpenCV with adjustable frame interval.
 
 ## How To Use
 You can use the code like this:
